@@ -23,13 +23,13 @@ Independentemente de ser uma Hamburgueria ou um Açaí, o programa precisa segui
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima
+* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima
 * | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre
 * | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva
 * | Vinicius Batista
 
 ### 🌆 Tarde (Segunda e Terça)
-* |Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima
+* | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima
 * | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva
 * | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira
 * | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte
