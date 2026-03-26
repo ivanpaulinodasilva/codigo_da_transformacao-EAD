@@ -192,6 +192,4 @@ Na programação, o que acabamos de fazer foi transformar uma **Lista Desordenad
 1.  **Variáveis Acumuladoras:** A `total_conta` guarda a soma dos valores usando o operador `+=`.
 2.  **O Laço `while`:** Cria uma repetição que só para quando a variável `continuar` vira `False`.
 3.  **Boas Práticas de UX:** Feedback imediato e formatação de moeda (`:.2f`).
-```
 
----
