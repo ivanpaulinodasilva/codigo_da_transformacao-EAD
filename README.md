@@ -1,4 +1,3 @@
-```markdown
 # 🎲 Código da Transformação - EAD 🐍☁️💻
 Nosso primeiro repositório do Código da Transformação.
 
@@ -24,32 +23,52 @@ Independentemente de ser uma Hamburgueria ou um Açaí, o programa precisa segui
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista
+* Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima
+* | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre
+* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva
+* | Vinicius Batista
 
 ### 🌆 Tarde (Segunda e Terça)
-* Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana
+* Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima
+* | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva
+* | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira
+* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte
+* | Yuri Santana
 
 ---
 
 ## 📂 Projetos por Tema
 
 ### 🍔 Hamburgueria / Burguer
-* **Grupos:** Marcos Nobre, Samuel Paiva, Diego Farias | Gabriel Lima, Gabriele Campos, Maria Matos, Vinicius Batista | Gabriela Leite, Henrique Souza, Laís Renata, Rychard Rodrigues | Beatriz Oliveira, Clara, João, Maria Ferreira | Claudomiro Santos, Richard Pimenta | Julio Ilidio, Miguel Alves.
+* **Grupos:**
+* |Marcos Nobre, Samuel Paiva, Diego Farias
+* | Gabriel Lima, Gabriele Campos, Maria Matos, Vinicius Batista
+* | Gabriela Leite, Henrique Souza, Laís Renata, Rychard Rodrigues
+* | Beatriz Oliveira, Clara, João, Maria Ferreira
+* | Claudomiro Santos, Richard Pimenta | Julio Ilidio, Miguel Alves.
 
 ### 🍧 Açaí
-* **Grupos:** Anthony Bezerra, C. Adriano, Luan Seiji | Cauã José, Juan Pablo, Pedro Henrique | Guilherme Firmino, Gustavo Rodrigues, Leonardo Santana, Wilson | Lorenzo Carmo, Luis Gentil, Maxuel Xavier.
+* **Grupos:**
+* |Anthony Bezerra, C. Adriano, Luan Seiji
+* | Cauã José, Juan Pablo, Pedro Henrique
+* | Guilherme Firmino, Gustavo Rodrigues, Leonardo Santana, Wilson
+* | Lorenzo Carmo, Luis Gentil, Maxuel Xavier.
 
 ### 🥖 Padaria
-* **Grupos:** Kauã, Miguel Marcondes | Fellipe Lima, Gustavo Jesus, Juliana Lima, Lana Reis.
+* **Grupos:**
+* |Kauã, Miguel Marcondes | Fellipe Lima, Gustavo Jesus, Juliana Lima, Lana Reis.
 
 ### 🍽️ Restaurante
-* **Grupo:** Alicya Duarte, Ana Nascimento, Larissa Silva, Nicolly Gonçalves, Thalya Alcantara, Thierry Duarte.
+* **Grupo:**
+* |Alicya Duarte, Ana Nascimento, Larissa Silva, Nicolly Gonçalves, Thalya Alcantara, Thierry Duarte.
 
 ### ✂️ Barbearia
-* **Grupo:** Allan Costa, Igor Batista, Milena Oliveira, Yuri Santana.
+* **Grupo:**
+* |Allan Costa, Igor Batista, Milena Oliveira, Yuri Santana.
 
 ### 💄 Salão de Beleza
-* **Grupo:** Michelle Andrade, Rafaela, Stefani Santos.
+* **Grupo:**
+* |Michelle Andrade, Rafaela, Stefani Santos.
 
 ---
 
@@ -164,8 +183,10 @@ print("="*30)
 ## 📚 Método Educativo: Estrutura de Dados
 Na programação, o que acabamos de fazer foi transformar uma **Lista Desordenada** em uma **Lista Estruturada**.
 
-* **Agrupamento:** Em linguagens como Python, poderíamos usar um **Dicionário** para salvar esses dados, onde a "Chave" é o **Tema** e o "Valor" é a **Lista de Alunos**.
-* **Markdown:** É a linguagem que estamos usando para formatar este texto. Ela é essencial para programadores documentarem seus projetos no GitHub de forma clara e profissional.
+* **Agrupamento:** Em linguagens como Python, poderíamos usar um **Dicionário**
+* para salvar esses dados, onde a "Chave" é o **Tema** e o "Valor" é a **Lista de Alunos**.
+* **Markdown:** É a linguagem que estamos usando para formatar este texto.
+* Ela é essencial para programadores documentarem seus projetos no GitHub de forma clara e profissional.
 
 ### 📖 O que aprendemos com os códigos?
 1.  **Variáveis Acumuladoras:** A `total_conta` guarda a soma dos valores usando o operador `+=`.
