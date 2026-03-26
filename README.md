@@ -137,7 +137,7 @@ print(f"TOTAL A PAGAR: R$ {total_conta:.2f}")
 print("Obrigado e volte sempre!")
 print("="*30)
 
-´´´
+```
 
 ### 📖 O que pode aprender como esse código?
 
