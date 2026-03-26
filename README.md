@@ -41,7 +41,7 @@ Independentemente de ser uma Hamburgueria ou um Açaí, o programa precisa segui
 
 ### 🍔 Hamburgueria / Burguer
 * **Grupos:**
-* |Marcos Nobre, Samuel Paiva, Diego Farias
+* | Marcos Nobre, Samuel Paiva, Diego Farias
 * | Gabriel Lima, Gabriele Campos, Maria Matos, Vinicius Batista
 * | Gabriela Leite, Henrique Souza, Laís Renata, Rychard Rodrigues
 * | Beatriz Oliveira, Clara, João, Maria Ferreira
@@ -49,26 +49,26 @@ Independentemente de ser uma Hamburgueria ou um Açaí, o programa precisa segui
 
 ### 🍧 Açaí
 * **Grupos:**
-* |Anthony Bezerra, C. Adriano, Luan Seiji
+* | Anthony Bezerra, C. Adriano, Luan Seiji
 * | Cauã José, Juan Pablo, Pedro Henrique
 * | Guilherme Firmino, Gustavo Rodrigues, Leonardo Santana, Wilson
 * | Lorenzo Carmo, Luis Gentil, Maxuel Xavier.
 
 ### 🥖 Padaria
 * **Grupos:**
-* |Kauã, Miguel Marcondes | Fellipe Lima, Gustavo Jesus, Juliana Lima, Lana Reis.
+* | Kauã, Miguel Marcondes | Fellipe Lima, Gustavo Jesus, Juliana Lima, Lana Reis.
 
 ### 🍽️ Restaurante
 * **Grupo:**
-* |Alicya Duarte, Ana Nascimento, Larissa Silva, Nicolly Gonçalves, Thalya Alcantara, Thierry Duarte.
+* | Alicya Duarte, Ana Nascimento, Larissa Silva, Nicolly Gonçalves, Thalya Alcantara, Thierry Duarte.
 
 ### ✂️ Barbearia
 * **Grupo:**
-* |Allan Costa, Igor Batista, Milena Oliveira, Yuri Santana.
+* | Allan Costa, Igor Batista, Milena Oliveira, Yuri Santana.
 
 ### 💄 Salão de Beleza
 * **Grupo:**
-* |Michelle Andrade, Rafaela, Stefani Santos.
+* | Michelle Andrade, Rafaela, Stefani Santos.
 
 ---
 
